@@ -1,2 +1,1 @@
-# wscicd
-Workshop CiCd
+# Projeto para teste de CI
